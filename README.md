@@ -1,4 +1,2 @@
 # Python
-
-Python projects.
-=======
+A variety of my python projects.
