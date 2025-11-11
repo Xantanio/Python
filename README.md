@@ -1,2 +1,2 @@
 # Python
-Some of my personal Python projects
+Here you’ll find various Python projects I’ve developed.
