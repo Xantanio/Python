@@ -43,7 +43,7 @@ Abra seu terminal e execute o seguinte comando:
 
 ```bash
 # Clone este repositório
-git clone [https://github.com/Xantanio/Python.git](https://github.com/Xantanio/Python.git)
+git clone https://github.com/Xantanio/Python.git
 
 # Entre na pasta que foi criada
 cd Python/smart_precatorio
