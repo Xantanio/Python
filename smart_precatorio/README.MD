@@ -59,4 +59,4 @@ pip install pandas jupyter
 jupyter notebook
 ```
 
-Agora basta executar as células desejadas.
+Agora basta abrir o arquivo smart_precatorio_case.ipynb e executar as células desejadas.
